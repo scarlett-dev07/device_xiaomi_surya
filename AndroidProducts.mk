@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/colt_surya.mk
+    $(LOCAL_DIR)/ssos_surya.mk
 
 COMMON_LUNCH_CHOICES := \
-    colt_surya-user \
-    colt_surya-userdebug \
-    colt_surya-eng
+    ssos_surya-user \
+    ssos_surya-userdebug \
+    ssos_surya-eng
